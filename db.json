@@ -1,0 +1,25 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Foto 1 do álbum 1",
+      "thumbnailUrl": "https://picsum.photos/seed/1/200",
+      "url": "https://picsum.photos/seed/1/600"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Foto 2 do álbum 1",
+      "thumbnailUrl": "https://picsum.photos/seed/2/200",
+      "url": "https://picsum.photos/seed/2/600"
+    },
+    {
+      "id": 3,
+      "albumId": 2,
+      "title": "Foto 1 do álbum 2",
+      "thumbnailUrl": "https://picsum.photos/seed/3/200",
+      "url": "https://picsum.photos/seed/3/600"
+    }
+  ]
+}
